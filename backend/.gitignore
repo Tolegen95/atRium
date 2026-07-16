@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+*.db
+.env
+tg_export.session
+tg_login_state.json
