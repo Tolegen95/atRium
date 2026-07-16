@@ -4,8 +4,9 @@ Full-stack сервис, который превращает поток техн
 
 Данные о температуре в атриуме/на улице, уровне освещения и шума публикуются в Telegram-канале [@test_temp_nu](https://t.me/test_temp_nu).
 
-## Развёрнутое приложение
+## Репозиторий и деплой
 
+- GitHub: [github.com/Tolegen95/atRium](https://github.com/Tolegen95/atRium)
 - Frontend: _добавить ссылку после деплоя на Vercel_
 - Backend: _добавить ссылку после деплоя на Railway_
 
