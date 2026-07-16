@@ -7,8 +7,8 @@ Full-stack сервис, который превращает поток техн
 ## Репозиторий и деплой
 
 - GitHub: [github.com/Tolegen95/atRium](https://github.com/Tolegen95/atRium)
-- Frontend: _добавить ссылку после деплоя на Vercel_
-- Backend: _добавить ссылку после деплоя на Railway_
+- Frontend (Vercel): [atrium-comfort-frontend.vercel.app](https://atrium-comfort-frontend.vercel.app)
+- Backend (Railway): [atrium-comfort-backend-production.up.railway.app](https://atrium-comfort-backend-production.up.railway.app) ([API docs](https://atrium-comfort-backend-production.up.railway.app/docs))
 
 ## Стек
 
